@@ -18,7 +18,7 @@ export const Data = [
     {
         id: 3,
         title: "Raclette chez les parents",
-        date: "2022-12-14",
+        date: "2022-12-13",
         infos:
             "Amener l'appareil à raclette",
         editable: false,
